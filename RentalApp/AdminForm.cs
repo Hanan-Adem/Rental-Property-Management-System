@@ -1,6 +1,6 @@
 ﻿namespace RentalApp
 {
-    partial class Form2
+    partial class AdminDashboard
     {
         /// <summary>
         /// Required designer variable.
@@ -13,6 +13,7 @@
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
+            //if statment
             if (disposing && (components != null))
             {
                 components.Dispose();
